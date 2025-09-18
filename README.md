@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=75bef5&height=120&text=&animation=&fontColor=ffffff&fontSize=40" />
